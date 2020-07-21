@@ -15,7 +15,7 @@ MS苏州算法讨论班
 - 张晴川
   - LeetCode 周赛难题选讲
   - 埃氏筛/线性筛（不用？）/ $1-n$ 素数（k 次幂）计数
-  - KMP/ AC自动机
+  - KMP/ AC自动机/ https://leetcode-cn.com/problems/find-all-good-strings/
   - 各种背包（01/多重/无限/最短路背包/树上背包）
 
 ## Sessions
